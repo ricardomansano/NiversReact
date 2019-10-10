@@ -3,7 +3,9 @@
 Este projeto é parte de uma série que visa comparar os Frames Angular/React/Vue ao AdvPL, mostrando diferenças e similaridades entre as linguagens.
 
 Esta versão é relativa ao React, para maiores informações favor acessar os vídeos abaixo:
+
 [Video parte 1](https://www.youtube.com/watch?v=GJTqDE-18bA)
+
 [Video parte 2](https://www.youtube.com/watch?v=yV72DehPkIo)
 
 [Post no Medium sobre o conteúdo](https://medium.com/totvsdevelopers/react-pra-quem-vem-do-advpl-203d4739daa6)
