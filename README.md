@@ -12,6 +12,7 @@ Esta versão é relativa ao React, para maiores informações favor acessar os v
 
 ```bash
 # Clone o repositório
+git clone https://github.com/ricardomansano/NiversReact.git
 
 # Acesse o diretório
 cd dir_do_projeto
