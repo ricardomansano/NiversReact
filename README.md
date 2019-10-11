@@ -25,3 +25,7 @@ npm install
 # Inicie o projeto
 npm start
 ```
+
+## Image
+
+![](https://raw.githubusercontent.com/ricardomansano/NiversReact/master/images/PrintReact_1.png)
