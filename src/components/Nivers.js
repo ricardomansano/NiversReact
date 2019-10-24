@@ -120,7 +120,7 @@ class NiverItem extends React.Component{
 }
 
 // [*CustomButton] Define padrao de cores, funcionando como um WebComponent
-const CustomButton = withStyles((theme: Theme) => ({
+const CustomButton = withStyles((theme) => ({
     root: {
       color: theme.palette.getContrastText('#007bff'),
       backgroundColor: '#007bff',
